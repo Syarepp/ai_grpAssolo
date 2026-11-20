@@ -1,0 +1,11 @@
+[project]
+name="python-ai-project"
+version="0.1.0"
+requires-python=">=3.13"
+dependencies=[
+    "matplotlib>=3.9",
+    "numpy",
+    "pandas>=3.1.0",
+    "scikit-learn>=1.9.1",
+    "torch>=2.15.0",
+]
